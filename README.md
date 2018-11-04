@@ -2,9 +2,9 @@
 
 This is a demo from Intellihome, my engineering thesis presented in April 2014 in UNCPBA, Tandil, Argentina. It is an 8 months project implemented in C# that I have developed alone, the formal software documentation and risk analysis is available in Spanish only and has 115 pages. 
 
-The code is divided in 3 folders: client, server and Arduino. 
-
 Intellihome: A framework for the development of smart environments based in a client - server architecture, which support multi brand sensors such like Microsoft Kinect, Myo and Leap Motion.
+
+The code is divided in 3 folders: client, server and Arduino. The voice commands recognition is performed by a dynamic grammar. Its words are loaded from a plain text file, to give the platform major extensibility. 
 
 With this project, you are able to transform a conventional environment in a smart environment using low cost technology. The main purpose of this work is to assist people with disabilities in their residences or works promoting the social inclusion.
 
