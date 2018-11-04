@@ -1,0 +1,43 @@
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\MainWindow.baml
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\MainWindow.g.cs
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\App.g.cs
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre.g.resources
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\GestureDetector.Properties.Resources.resources
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Desktop\Degree Project - demo\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Desktop\Degree Project - demo\bin\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Desktop\Degree Project - demo\bin\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Desktop\Degree Project - demo\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\MainWindow.baml
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\MainWindow.g.cs
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\App.g.cs
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.g.resources
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\GestureDetector.Properties.Resources.resources
+C:\Users\caro val\Desktop\Projects\Degree project\Degree Project - demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.exe.config
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.exe
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.pdb
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.exe
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\bin\Debug\tesisSeptiembre.pdb
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\bin\Debug\Microsoft.Speech.dll
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\MainWindow.baml
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\MainWindow.g.cs
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\App.g.cs
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\tesisSeptiembre.g.resources
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\GestureDetector.Properties.Resources.resources
+D:\documentos de carito\Inria internship program 2014\Projects\Degree project\Degree Project - demo\obj\Debug\Demo.csproj.GenerateResource.Cache

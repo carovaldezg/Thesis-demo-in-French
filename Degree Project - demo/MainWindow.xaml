@@ -1,0 +1,19 @@
+﻿<Window x:Class="test.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect sees you" Height="561.328" Width="980.91" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid Margin="0,0,2,-4">
+        <Label Height="40" HorizontalAlignment="Left" Margin="120,195,0,0" Name="label1" VerticalAlignment="Top" Width="286" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,241,0,0" Name="label2" VerticalAlignment="Top" Width="394" />
+        <Label Content="Kinect status:" Height="23" HorizontalAlignment="Left" Margin="12,195,0,0" Name="label4" VerticalAlignment="Top" Width="102" />
+        <Image Height="63" HorizontalAlignment="Left" Margin="448,0,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="70" Source="C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\imagenes\mic_icon.jpg" />
+        <Label Height="30" HorizontalAlignment="Left" Margin="12,275,0,0" Name="label3" VerticalAlignment="Top" Width="394" />
+        <Label Height="109" HorizontalAlignment="Left" Margin="10,16,0,0" Name="label5" VerticalAlignment="Top" Width="133" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="127,336,0,0" Name="label6" VerticalAlignment="Top" Width="260" />
+        <Image Height="163" HorizontalAlignment="Left" Margin="156,10,0,0" Name="image2" Stretch="Fill" VerticalAlignment="Top" Width="250" />
+        <Image x:Name="plano" HorizontalAlignment="Left" Height="388" Margin="411,141,0,0" VerticalAlignment="Top" Width="427" Source="C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\imagenes\PLANO.JPG"/>
+        <Ellipse x:Name="luzcocina" Fill="#FFF9F981" HorizontalAlignment="Left" Height="25" Margin="681,150,0,0" VerticalAlignment="Top" Width="25" Visibility="Hidden"/>
+        <Ellipse x:Name="luzestudio" Fill="#FFFBFB77" HorizontalAlignment="Left" Height="25" Margin="730,351,0,0" VerticalAlignment="Top" Width="25" Visibility="Hidden"/>
+        <Ellipse x:Name="luzdormitorio" Fill="#FFF9F977" HorizontalAlignment="Left" Height="25" Margin="471,259,0,0" VerticalAlignment="Top" Width="25" Visibility="Hidden"/>
+    </Grid>
+</Window>

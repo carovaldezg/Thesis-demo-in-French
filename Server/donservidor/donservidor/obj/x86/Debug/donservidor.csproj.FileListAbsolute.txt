@@ -1,0 +1,55 @@
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\bin\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\bin\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\App.g.cs
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor_MarkupCompile.cache
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor.g.resources
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor.Properties.Resources.resources
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor.csproj.GenerateResource.Cache
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\TESIS\Mayo\donservidor\donservidor\obj\x86\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\bin\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\bin\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\App.g.cs
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor_MarkupCompile.cache
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor.g.resources
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor.Properties.Resources.resources
+C:\Users\caro val\Dropbox\tesis hasta junio 2013\donservidor\donservidor\obj\x86\Debug\donservidor.csproj.GenerateResource.Cache
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\bin\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\bin\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\App.g.cs
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor_MarkupCompile.cache
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor.g.resources
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor.Properties.Resources.resources
+C:\Users\caro val\Dropbox\tesis Agosto 2013 - gestos\donservidor\donservidor\obj\x86\Debug\donservidor.csproj.GenerateResource.Cache
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\bin\Debug\donservidor.exe
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\bin\Debug\donservidor.pdb
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\App.g.cs
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor_MarkupCompile.cache
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor.g.resources
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor.Properties.Resources.resources
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\donservidor\donservidor\obj\x86\Debug\donservidor.csproj.GenerateResource.Cache
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor.exe
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor.pdb
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\bin\Debug\donservidor.exe
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\bin\Debug\donservidor.pdb
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\MainWindow.baml
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\MainWindow.g.cs
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\App.g.cs
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor_MarkupCompile.cache
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor.g.resources
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor.Properties.Resources.resources
+C:\Users\caro val\Desktop\Projects\Degree project\Server\donservidor\donservidor\obj\x86\Debug\donservidor.csproj.GenerateResource.Cache

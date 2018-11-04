@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7BDE796C-16A3-48A4-A5ED-45D8935798C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestureDetector</RootNamespace>
+    <AssemblyName>tesisSeptiembre</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LeapCSharp.NET4.0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6e1b1368e71eba9b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\LeapCSharp.NET4.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=1.7.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Kinect\v1.7\Assemblies\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Samples.Kinect.SwipeGestureRecognizer">
+      <HintPath>D:\DESARROLLO\EJEMPLOS KINECT\SlideshowGestures-WPF\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Speech, Version=11.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SDKs\Speech\v11.0\Assembly\Microsoft.Speech.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="comunicacionArduino.cs" />
+    <Compile Include="ComunicacionExterna.cs" />
+    <Compile Include="EnviarInfoTCPIP.cs" />
+    <Compile Include="GestureDetector\DataSources\Device.cs" />
+    <Compile Include="GestureDetector\DataSources\MovingSmothendSkeleton.cs" />
+    <Compile Include="GestureDetector\DataSources\Person.cs" />
+    <Compile Include="GestureDetector\DataSources\SmothendSkeleton.cs" />
+    <Compile Include="GestureDetector\DataSources\StaticSmothendSkeleton.cs" />
+    <Compile Include="GestureDetector\Events\AccelerationEventArgs.cs" />
+    <Compile Include="GestureDetector\Events\ActivePersonEventArgs.cs" />
+    <Compile Include="GestureDetector\Events\GestureEventArgs.cs" />
+    <Compile Include="GestureDetector\Events\NewPersonEventArgs.cs" />
+    <Compile Include="GestureDetector\Events\NewSkeletonEventArg.cs" />
+    <Compile Include="GestureDetector\Events\PersonDisposedEventArgs.cs" />
+    <Compile Include="GestureDetector\Events\PersonPassiveEventArgs.cs" />
+    <Compile Include="GestureDetector\Exceptions\DeviceErrorException.cs" />
+    <Compile Include="GestureDetector\Gestures\Condition.cs" />
+    <Compile Include="GestureDetector\Gestures\DynamicCondition.cs" />
+    <Compile Include="GestureDetector\Gestures\GestureChecker.cs" />
+    <Compile Include="GestureDetector\Gestures\Swipe\SwipeCondition.cs" />
+    <Compile Include="GestureDetector\Gestures\Swipe\SwipeGestureChecker.cs" />
+    <Compile Include="GestureDetector\Gestures\Swipe\SwipeGestureEventArgs.cs" />
+    <Compile Include="GestureDetector\Tools\Checker.cs" />
+    <Compile Include="GestureDetector\Tools\CurrentMillis.cs" />
+    <Compile Include="GestureDetector\Tools\Filter.cs" />
+    <Compile Include="GestureDetector\Tools\SkeletonMath.cs" />
+    <Compile Include="Gramatica.cs" />
+    <Compile Include="GramaticaDinamica.cs" />
+    <Compile Include="LeapMotionGestures\GestoLeap.cs" />
+    <Compile Include="LeapMotionGestures\GestoLeapListener.cs" />
+    <Compile Include="LeapMotionGestures\LeapListener.cs" />
+    <Compile Include="ReconocedorDeGestos.cs" />
+    <Compile Include="ReconocedorDeVoz.cs" />
+    <Compile Include="swipeRightToLeftChecker.cs" />
+    <Compile Include="SwipeRightToLeftCondition.cs" />
+    <Compile Include="SwipeRightToLeftGestureEventArgs.cs" />
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MensajeOSC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

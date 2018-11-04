@@ -1,0 +1,93 @@
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.baml
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\App.g.cs
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.Properties.Resources.resources
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\bin\Debug\GestureDetector.dll
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+c:\users\caro val\documents\visual studio 2012\Projects\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\App.g.cs
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_Content.g.cs
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\GestureDetector.Properties.Resources.resources
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+D:\DESARROLLO\TESIS\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+D:\DESARROLLO\TESIS\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+D:\DESARROLLO\TESIS\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\App.g.cs
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_Content.g.cs
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\GestureDetector.Properties.Resources.resources
+C:\Users\caro val\Dropbox\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.baml
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\App.g.cs
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_Content.g.cs
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\GestureDetector.Properties.Resources.resources
+D:\DESARROLLO\TESIS\ULTIMA VERSION ESTABLE\CON LEAP MOTION FUNCIONANDO\SEPTIEMBRE - GESTOS - VOZ - NUEVO GESTO\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.baml
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\App.g.cs
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\GestureDetector.Properties.Resources.resources
+D:\DESARROLLO\TESIS\version estable solo con las clases necesarias\tesisSeptiembre\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\bin\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\bin\Debug\tesisSeptiembre.pdb
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\bin\Debug\Microsoft.Samples.Kinect.SwipeGestureRecognizer.dll
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre.csprojResolveAssemblyReference.cache
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\MainWindow.baml
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\MainWindow.g.cs
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\App.g.cs
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre_MarkupCompile.cache
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre.g.resources
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\GestureDetector.Properties.Resources.resources
+C:\Users\caro val\Dropbox\version estable solo con las clases necesarias\Version estable antes de agregar la herencia de sensores\tesisSeptiembre\obj\Debug\tesisSeptiembre.csproj.GenerateResource.Cache
+C:\Users\caro val\Desktop\Degree Project - demo\bin\Debug\tesisSeptiembre.exe.config
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre.exe
+C:\Users\caro val\Desktop\Degree Project - demo\obj\Debug\tesisSeptiembre.pdb
