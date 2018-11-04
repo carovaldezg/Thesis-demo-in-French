@@ -10,10 +10,12 @@ With this project, you are able to transform a conventional environment in a sma
 
 The system allows its users to be their own remote control to control different appliances of their house or office, interacting with them naturally using HCI and natural user interfaces.
 
+# Publications
+
 This project has been published as a research success case and presented in international conferences such as CLIHC: https://dl.acm.org/citation.cfm?id=2824913
 and IADIS: http://www.iadisportal.org/digital-library/una-plataforma-para-el-desarrollo-de-ambientes-inteligentes-utilizando-sistemas-de-interfaz-natural-y-hardware-de-bajo-costo
 
-Also, the project has been awarded by:
+# The project has been awarded by:
 
   - Microsoft and Dar foundation in their contests TEC 1 and TEC 2 during 2015,
   - Ministry of Sciences from República Argentina in their contest Innovar 2015,
